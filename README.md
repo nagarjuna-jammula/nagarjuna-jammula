@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nagarjuna-jammula
+- 👀 I’m interested in Sap, AWS, Azure, Terrform, Ansible
+- 🌱 I’m currently learning Azure, Terraform
+- 
